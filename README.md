@@ -67,3 +67,24 @@
 
 <img width="959" alt="SARS-CoV-genomes-separate-USA-PHL" src="https://user-images.githubusercontent.com/45789410/207380931-b946a95e-b196-464a-9480-2718953f5b56.png">
 
+координаты 2-41:
+
+<img width="726" alt="mutation2-41-USA-PHL" src="https://user-images.githubusercontent.com/45789410/207381390-83910ad3-e5be-4327-a157-c09762a37c17.png">
+
+координата 44:
+
+<img width="396" alt="mutation44-USA-PHL" src="https://user-images.githubusercontent.com/45789410/207381476-355ae7c1-0239-479c-9201-31e869581e18.png">
+
+координата 670:
+
+<img width="396" alt="mutation670-USA-PHL" src="https://user-images.githubusercontent.com/45789410/207381553-c975a39e-d819-4ec1-8333-e9ecb2f49b99.png">
+
+координаты 686-694:
+
+<img width="464" alt="mutation686-694-USA-PHL" src="https://user-images.githubusercontent.com/45789410/207381644-4787b793-16bd-49ee-930d-a544279671d4.png">
+
+координата 1931:
+
+<img width="394" alt="mutation1931-USA-PHL" src="https://user-images.githubusercontent.com/45789410/207381703-45cbb813-b838-464d-8ae7-b7f54cb0bb15.png">
+
+##### Итого: первые две мутации произошли в некодирующем участке в начале генома, перед геном ORF1ab. Остальные - в гене ORF1ab.
